@@ -1,7 +1,4 @@
-### Hi there 👋
 
-<!--
-**aurion-codes/aurion-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hi 👋 I'm Aurion -Pronouns: (she/her)
 A recent grad from Flatiron School's Immersive Full-Stack Software Engineering program in which I gained experience in;
@@ -22,4 +19,3 @@ Fun Facts:
 
 I am open to work so feel free to contact me about collaborating or career opportunities!
 
--->
