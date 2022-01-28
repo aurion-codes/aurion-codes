@@ -13,10 +13,11 @@ Since completing the program I've kept current by taking advantage of a full-sta
 
 🌱 I enjoy staying up-to-date with technolgies so I am currently learning about AWS and cloud computing.
 
-Fun Facts:
+<!-- Fun Facts:
+  I love solving puzzles 
   I am a foodie and enjoy trying different cultural foods
   I love roller skatting although on average I fall about times within an hour
-  I am a professional singer . (Only in the shower)
+  I am a professional singer . (Only in the shower) -->
   
 
 I am open to work so feel free to contact me about collaborating or career opportunities!
