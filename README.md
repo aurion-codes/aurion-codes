@@ -1,6 +1,7 @@
 
 
 Hi 👋 I'm Aurion -Pronouns: (she/her)
+
 A recent grad from Flatiron School's Immersive Full-Stack Software Engineering program in which I gained experience in;
 
 Front-end technologies - JavaScript, React, Styled Components,HTML5 and CSS
