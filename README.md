@@ -10,7 +10,7 @@ Databases- PostgresQL, SQLite and SQL
 
 Since completing the program I've kept current by taking advantage of a full-stack web development courses on Udemy, blogging to t6ach others and expand upon my current skills and being a professional googler and researcher. I'm excited to continually learn and be a life-long learner of innovative technologies. 
 
-🌱 I enjoy staying up-to-date with technolgies so I am currently learning about cloud computing technologies.
+🌱 I enjoy staying up-to-date with technolgies so I am currently learning about cloud computing.
 
 Fun Facts:
   I am a foodie and enjoy trying different cultural foods
