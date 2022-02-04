@@ -22,7 +22,7 @@ Since completing a Fullstack Immersive Software Engineering program, I've taken 
   I am a professional singer . (Only in the shower) -->
   
 
-I am extremely excited and eager to learn and solve real world problems. 
+I am extremely excited and eager to collaborate on a team of passionate, hard-working and intellectual indivuals to learn and solve real-world problems. 
 
 Feel free to contact me :)
 
