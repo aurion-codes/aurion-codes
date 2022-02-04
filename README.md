@@ -1,15 +1,17 @@
 
 
-Hi 👋 I'm Aurion -Pronouns: (she/her)
+Hi 👋 I'm Aurion -A lifelong learner
 
-A recent grad from Flatiron School's Immersive Full-Stack Software Engineering program in which I gained experience in;
+Being a naturally curious and forward thinking individual has led me to the world of technology. I love solving complex problems for fun. Challenging myself is a technique I use to grow and develop. 
+
+My current skills in which I am continuously improving:
 
 Front-end technologies - JavaScript, React, Styled Components,HTML5 and CSS
 
 Back-end technologies - Ruby, Ruby on Rails, json
 Databases- PostgresQL, SQLite and SQL
 
-Since completing the program I've taken advantage of full-stack web development courses on Udemy, blogging to help others and expand upon my current skills and being a professional googler and researcher. I'm excited to continually learn and be a life-long learner of innovative technologies. 
+Since completing a Fullstack Immersive Software Engineering program, I've taken advantage of learning by doing/working on projects, blogging to help others and expand upon my current skills. I'm excited to continually learn and be a life-long learner of innovative technologies. 
 
 🌱 I enjoy staying up-to-date with technolgies. I am currently learning about cloud computing.
 
@@ -20,5 +22,7 @@ Since completing the program I've taken advantage of full-stack web development 
   I am a professional singer . (Only in the shower) -->
   
 
-I am open to work so feel free to contact me about collaborating or career opportunities!
+I am extremely excited and eager to learn and solve real world problems. 
+
+Feel free to contact me :)
 
