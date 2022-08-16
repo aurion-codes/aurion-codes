@@ -1,6 +1,6 @@
 
 
-Hi 👋 I'm Aurion (she/her)-A life-long learner
+Hi 👋 I'm Aurion (she/her)-A Cloud Engineer and life-long learner
 
 Being a naturally curious and forward thinking individual has led me to the world of technology. I love solving complex problems for fun. Challenging myself is a technique I use to grow and develop. 
 
