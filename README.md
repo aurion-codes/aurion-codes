@@ -6,14 +6,18 @@ Being a naturally curious and forward thinking individual has led me to the worl
 
 My current skills in which I am continuously improving:
 
-Front-end technologies - JavaScript, React, Styled Components,HTML5 and CSS
+Cloud Computing Experience: AWS cloud, ci/cd pipelines. EC2, VPC, S3, IAM, Linux, Terraform, Ansible
+
+Certifications : AWS CLOUD PRACTICIONER, AWS ASSOCIATE SOLUTION ARCHITECT, AWS DEVELOPER ASSOCIATE, AWS SECURITY SPECIALITY 
+
+Front-end technologies - JavaScript, React, ,HTML5 and CSS
 
 Back-end technologies - Ruby, Ruby on Rails, json
 Databases- PostgresQL, SQLite and SQL
 
 Since completing a Fullstack Immersive Software Engineering program, I've taken advantage of learning by doing/working on projects, blogging to help others and expand upon my current skills. I'm excited to continually learn and be a life-long learner of innovative technologies. 
 
-🌱 I enjoy staying up-to-date with technolgies. I am currently learning about cloud computing.
+🌱 I enjoy staying up-to-date with technolgies. I am currently expanding my skills in Cloud Computing.
 
 <!-- Fun Facts:
   I love solving puzzles 
