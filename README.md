@@ -1,29 +1,26 @@
 
 
-Hi 👋 I'm Aurion (she/her)-A Cloud Engineer and life-long learner
+<h1>Hi 👋 I'm Aurion (she/her) - A CyberSecurity Enthusiast </h1>
 
-Being a naturally curious and forward thinking individual has led me to the world of technology. I love solving complex problems for fun. Challenging myself is a technique I use to grow and develop. 
+<p>Being a naturally curious and forward thinking individual has led me to the world of technology. I love solving complex problems for fun. Challenging myself by learning new skills is a technique I use to grow and develop.</p> 
 
-My current skills in which I am continuously improving:
+My current skills include:
 
 Cloud Computing Experience: AWS cloud, ci/cd pipelines. EC2, VPC, S3, IAM, Linux, Terraform, Ansible
 
-Certifications : AWS CLOUD PRACTICIONER, AWS ASSOCIATE SOLUTION ARCHITECT, AWS DEVELOPER ASSOCIATE, AWS SECURITY SPECIALITY 
+Security: SQL injections, Burpe Suite, Okta , IAM (Identity and Access Mangement) 
 
-Front-end technologies - JavaScript, React, ,HTML5 and CSS
+Certifications : AWS CLOUD PRACTICIONER, AWS ASSOCIATE SOLUTION ARCHITECT
+
+Front-end technologies - JavaScript, React, Python ,HTML5 and CSS
 
 Back-end technologies - Ruby, Ruby on Rails, json
-Databases- PostgresQL, SQLite and SQL
+Databases- PostgresQL and SQL
 
-Since completing a Fullstack Immersive Software Engineering program, I've taken advantage of learning by doing/working on projects, blogging to help others and expand upon my current skills. I'm excited to continually learn and be a life-long learner of innovative technologies. 
 
-🌱 I enjoy staying up-to-date with technolgies. I am currently expanding my skills in Cloud Computing.
+🌱 I enjoy staying up-to-date with new techologies and learning more ways to secure company apps and data. 
 
-<!-- Fun Facts:
-  I love solving puzzles 
-  I am a foodie and enjoy trying different cultural foods
-  I love roller skatting although on average I fall about times within an hour
-  I am a professional singer . (Only in the shower) -->
+<h2>CybeSecurity Projects</h2>
   
 
 I am extremely excited and eager to collaborate on a team of passionate, hard-working and intellectual indivuals to learn and solve real-world problems. 
