@@ -9,7 +9,7 @@
 
 <h1>CybeSecurity Projects</h1>
 
-Internal Audit Project ===> <a href ="https://github.com/aurion-codes/SecurityAudit.git"> Part1 Internal Audit</a> , <a href="https://github.com/aurion-codes/SecurityAuditPt2.git"> Part2 Internal Audit</a>
+Internal Audit Project ===> <a href ="https://github.com/aurion-codes/SecurityAudit.git"> Controls Assesment -Internal Audit</a> , <a href="https://github.com/aurion-codes/SecurityAuditPt2.git"> Compliance Checklist -Internal Audit</a>
 <p>Conducted an Internal Audit of a Toy Company</p>
   <li>Controls Assesment</li> 
   <li>Compliance checklist</li>
