@@ -22,7 +22,7 @@ Databases- PostgresQL and SQL
 
 <h2>CybeSecurity Projects</h2>
 
-Internal Audit Project = > https://github.com/aurion-codes/SecurityAudit.git
+Internal Audit Project => <a href ="https://github.com/aurion-codes/SecurityAudit.git"> Part1 Internal Audit</a>
 Conducted an Internal Audit of a Toy Company 
   Full Controls Assesment 
   Compliance checklist 
