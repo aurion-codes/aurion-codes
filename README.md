@@ -21,9 +21,11 @@ Databases- PostgresQL and SQL
 🌱 I enjoy staying up-to-date with new techologies and learning more ways to secure company apps and data. 
 
 <h2>CybeSecurity Projects</h2>
-  
 
-I am extremely excited and eager to collaborate on a team of passionate, hard-working and intellectual indivuals to learn and solve real-world problems. 
+Internal Audit Project = > https://github.com/aurion-codes/SecurityAudit.git
+Conducted an Internal Audit of a Toy Company 
+  Full Controls Assesment 
+  Compliance checklist 
 
 Feel free to contact me :)
 
