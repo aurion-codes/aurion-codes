@@ -13,10 +13,10 @@ Internal Audit Project ===> <a href ="https://github.com/aurion-codes/SecurityAu
 <p>Conducted an Internal Audit of a Toy Company</p>
   <li>Controls Assesment</li> 
   <li>Compliance checklist</li>
-  <li>Stakeholder Memoroandum</li>
+  <li>Stakeholder Memorandum</li>
 
 
-My current skills include:
+<p>My current skills include</p>:
 
 Cloud Computing Experience: AWS cloud, ci/cd pipelines. EC2, VPC, S3, IAM, Linux, Terraform, Ansible
 
