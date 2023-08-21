@@ -2,7 +2,7 @@
 
 <h1>Hi 👋 I'm Aurion (she/her) - A CyberSecurity Enthusiast </h1>
 
-<p>Being a naturally curious and forward thinking individual has led me to the world of technology. I love solving complex problems for fun. Challenging myself by learning new skills is a technique I use to grow and develop.</p> 
+<p>Cybersecurity enthusiast on a mission to fortify digital landscapes and safeguard information. Exploring the intricate realm of cybersecurity, from threat detection to incident response. Committed to staying ahead of emerging cyber threats and vulnerabilities, while advocating for robust security practices. Passionate about contributing to the evolving cybersecurity landscape through continuous learning, hands-on experience, and collaboration with fellow security enthusiasts. Let's connect and share insights in our collective journey to make the digital world safer and more secure..</p> 
 
 
 🌱 I enjoy staying up-to-date with new techologies and learning more ways to secure company apps and data. 
@@ -16,11 +16,11 @@ Internal Audit Project ===> <a href ="https://github.com/aurion-codes/SecurityAu
   <li>Stakeholder Memorandum</li>
 
 
-<p>My current skills include</p>:
+<h2><b>Skills</b></h2>:
+
+Security: NIST, PCI DSS, HIPAA, SQL injections, Burpe Suite, Okta , IAM (Identity and Access Mangement) 
 
 Cloud Computing Experience: AWS cloud, ci/cd pipelines. EC2, VPC, S3, IAM, Linux, Terraform, Ansible
-
-Security: SQL injections, Burpe Suite, Okta , IAM (Identity and Access Mangement) 
 
 Certifications : AWS CLOUD PRACTICIONER, AWS ASSOCIATE SOLUTION ARCHITECT
 
