@@ -9,14 +9,10 @@
 
 <h1>CybeSecurity Projects</h1>
 
-Internal Audit Project ===> <p><a href ="https://github.com/aurion-codes/SecurityAudit.git"> Controls Assesment -Internal Audit</a></p> <p><a href="https://github.com/aurion-codes/Compliance-Checklist.git">Conpliance Checklist-Internal Audit</a></p> <p><a href="https://github.com/aurion-codes/SecurityAuditPt2.git"> Complete Internal Audit Stakeholder Memorandum</a></p>
-<p>Conducted an Internal Audit of a Toy Company</p>
-  <li>Controls Assesment</li> 
-  <li>Compliance checklist</li>
-  <li>Stakeholder Memorandum</li>
-
-
+AWS -Terraform VPC Configuration ===> <p><a href ="https://github.com/aurion-codes/aws-vpc-config/tree/main/aws-vpc-config"> Terraform VPC</a></p> 
 <h2><b>Skills</b></h2>:
+
+Cloud Computing Experience: AWS cloud, ci/cd pipelines, github actions. EC2, VPC, S3, IAM, Linux, Terraform (infrastructure as code)
 
 Security: NIST, PCI DSS, HIPAA, SQL injections, Burpe Suite, Okta , IAM (Identity and Access Mangement) 
 
@@ -24,10 +20,6 @@ Cloud Computing Experience: AWS cloud, ci/cd pipelines. EC2, VPC, S3, IAM, Linux
 
 Certifications : AWS CLOUD PRACTICIONER, AWS ASSOCIATE SOLUTION ARCHITECT
 
-Front-end technologies - JavaScript, React, Python ,HTML5 and CSS
-
-Back-end technologies - Ruby, Ruby on Rails, json
-Databases- PostgresQL and SQL
 
 Feel free to contact me :)
 
