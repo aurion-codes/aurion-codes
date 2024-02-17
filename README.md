@@ -7,9 +7,9 @@
 
 🌱 I enjoy staying up-to-date with new techologies and learning more ways to secure company apps and data. 
 
-<h1>CybeSecurity Projects</h1>
+<h1>Cloud/DevOps Project</h1>
 
-AWS -Terraform VPC Configuration ===> <p><a href ="https://github.com/aurion-codes/aws-vpc-config/tree/main/aws-vpc-config"> Terraform VPC</a></p> 
+AWS -Terraform VPC Configuration ===> <a href ="https://github.com/aurion-codes/aws-vpc-config/tree/main/aws-vpc-config"> Terraform VPC</a>
 <h2><b>Skills</b></h2>:
 
 Cloud Computing Experience: AWS cloud, ci/cd pipelines, github actions. EC2, VPC, S3, IAM, Linux, Terraform (infrastructure as code)
